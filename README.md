@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**SUNLIFAN/SUNLIFAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sun Lifan, coming from Xiamen, Fujian province
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 I'm studying Software Engineering in Nanjing University.
+- 🔭 I’m currently working on a mini-spring framework
+- 🌱 I’m currently learning SSM and Machine Learning
+- 📫 How to reach me: lifansun1412@gmail.com
+- 😄 I’m currently interested in Machine Learning
+
+
+![](https://github-readme-stats.vercel.app/api?username=SUNLIFAN)
