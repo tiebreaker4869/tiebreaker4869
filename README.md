@@ -10,5 +10,6 @@ I am Sun Lifan, coming from Xiamen, Fujian province
 - 📫 How to reach me: lifansun1412@gmail.com
 - 😄 I’m currently interested in Machine Learning
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNLIFAN&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=SUNLIFAN)
