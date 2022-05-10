@@ -1,8 +1,7 @@
 ### Hi there 👋
 
+## Some basic information
 I am Sun Lifan, coming from Xiamen, Fujian province
-
-
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🔭 I’m currently working on a mini-spring framework
@@ -10,6 +9,8 @@ I am Sun Lifan, coming from Xiamen, Fujian province
 - 📫 How to reach me: lifansun1412@gmail.com
 - 😄 I’m currently interested in Machine Learning
 
+## Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNLIFAN&layout=compact)
 
+## Stats
 ![](https://github-readme-stats.vercel.app/api?username=SUNLIFAN)
