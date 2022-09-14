@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Some basic information
-I am Lifan Sun, coming from Xiamen, Fujian province
+I am Lifan Sun, coming from Xiamen, Fujian province, China
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🌱 I’m currently learning Deep Learning and Test Automation
