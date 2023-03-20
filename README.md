@@ -4,9 +4,10 @@
 I am Lifan Sun, coming from Xiamen, Fujian province, China
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
-- 🌱 I’m currently learning Deep Learning and Test Automation
+- 🌱 I’m currently learning Computer Architecture
 - 📫 How to reach me: lifansun1412@gmail.com
-- 😄 I’m currently interested in Deep learning and Automated Software Engineering
+- 😄 I’m currently interested in Programming Language and Database System
+- 😃 I’m currently working on Test Automation
 
 ## Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNLIFAN&layout=compact)
