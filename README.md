@@ -6,7 +6,7 @@ I am Lifan Sun, coming from Xiamen, Fujian province, China
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🌱 I’m currently learning Programming Languages
 - 📫 How to reach me: lifansun1412@gmail.com
-- 😄 I’m currently interested in Programming Language and NLP
+- 😄 I’m currently interested in Programming Languages and NLP
 - 😃 I’m currently working on Test Automation
 
 ## Language
