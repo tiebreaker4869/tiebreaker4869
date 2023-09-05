@@ -7,7 +7,7 @@ I am Lifan Sun, coming from Xiamen, Fujian province, China
 - 🌱 I’m currently learning Programming Languages
 - 📫 How to reach me: lifansun1412@gmail.com
 - 😄 I’m currently interested in Programming Languages and NLP
-- 😃 I’m currently working on Test Automation
+- 😃 I’m currently working on Automated Software Testing
 
 ## Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNLIFAN&layout=compact)
