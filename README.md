@@ -13,4 +13,4 @@ I am Lifan Sun, coming from Xiamen, Fujian province, China
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNLIFAN&layout=compact)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=SUNLIFAN)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNLIFAN&show_icons=true&theme=radical)
