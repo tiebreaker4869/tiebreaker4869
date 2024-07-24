@@ -1,7 +1,7 @@
 ## ✨About Me
 - 🎓 I'm a bachelor from **Nanjing University**, and will begin to pursue a master degree at **UC San Diego** in 2024 Fall.
 - 🔭 I'm currently working on LLM & Sys.
-- 🌱 I'm currently learning modern C++ and LLVM.
+- 🌱 I'm currently learning Computer Architecture and Systems.
 - 📔 My Blog: [stevensun.site](https://stevensun.site)
 - 📫 How to reach me: lifansun1412@gmail.com
 
