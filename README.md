@@ -1,5 +1,5 @@
 ## ✨About Me
-- 🎓 I'm currently a first year computer science master student at UC San Diego.
+- 🎓 I'm currently a second year computer science master student at UC San Diego.
 - 🔭 I'm currently working on Agentic AI Applications at AWS.
 - 🌱 I'm currently learning Machine Learning Systems.
 - 📔 My Blog: [stevensun.site](https://stevensun.site)
