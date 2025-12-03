@@ -8,4 +8,5 @@
 ## 📊 Stats
 [![Lifan's GitHub stats](https://github-readme-stats-one-ashen-82.vercel.app/api?username=tiebreaker4869)](https://github.com/tiebreaker4869/github-readme-stats)
 
-![Language Stats](stats/leaderboard_by_lines.png)
+[![Top Langs](https://github-readme-stats-one-ashen-82.vercel.app/api/top-langs/?username=tiebreaker4869&layout=compact&theme=algolia&count_private=true)](https://github.com/tiebreaker4869/github-readme-stats)
+
