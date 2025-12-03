@@ -10,7 +10,3 @@
 [![Top Langs](https://github-readme-stats-one-ashen-82.vercel.app/api/top-langs/?username=tiebreaker4869&theme=algolia&count_private=true&hide=html,scss,stylus,jupyter%20notebook,css,shell,typescript,javascript,vue,tex&layout=donut)](https://github.com/tiebreaker4869/github-readme-stats)
 
 [![Lifan's GitHub stats](https://github-readme-stats-one-ashen-82.vercel.app/api?username=tiebreaker4869&theme=tokyonight)](https://github.com/tiebreaker4869/github-readme-stats)
-
-[![Lifan's WakaTime stats](https://github-readme-stats-one-ashen-82.vercel.app/api/wakatime?username=lfsun1844)](https://github.com/tiebreaker4869/github-readme-stats)
-
-
