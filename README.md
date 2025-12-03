@@ -6,5 +6,5 @@
 - 📫 How to reach me: lifansun1412@gmail.com
 
 ## 📊 Stats
-[![Lifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiebreaker4869)](https://github.com/tiebreaker4869/github-readme-stats)
+[![Lifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiebreaker4869)](https://github.com/anuraghazra/github-readme-stats)
 
