@@ -1,7 +1,7 @@
 ## ✨About Me
 - 🎓 I'm currently a second year computer science master student at UC San Diego.
 - 🔭 I'm currently working on Agentic AI Applications at AWS.
-- 🌱 I'm currently learning llm inference and serving optimizations.
+- 🌱 I'm currently learning LLM inference and serving optimizations.
 - 📔 My Blog: [stevensun.site](https://stevensun.site)
 - 📫 How to reach me: lifansun1412@gmail.com
 
